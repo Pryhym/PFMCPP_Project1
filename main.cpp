@@ -68,13 +68,13 @@ fist.bump();
 //  action 3:   pounds
 fist.pound();
 //  3)
-//  Noun:   leftFoot
-//  action 1:   leftRun
-leftFoot.leftRun();
-//  action 2:   leftJump
-leftFoot.leftJump();
-//  action 3:   leftKick
-leftFoot.leftKick();
+//  Noun:   leftLeg
+//  action 1:   stepForward
+leftLeg.stepForward();
+//  action 2:   stepBack
+leftLeg.stepBack();
+//  action 3:   JumpUp
+leftLeg.jumpUp();
 //  4)
 //  Noun:   eyes
 //  action 1:   see
