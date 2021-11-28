@@ -117,10 +117,10 @@ sword.slice();
 sword.block();
 //  9)
 //  Noun:   car
-//  action 1:   forward
-car.forward();
-//  action 2:   reverse
-car.reverse();
+//  action 1:   moveForward
+car.moveForward();
+//  action 2:   moveBack
+car.moveBack();
 //  action 3:   turn
 car.turn();
 //  10)
