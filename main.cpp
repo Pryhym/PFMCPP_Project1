@@ -52,85 +52,85 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:   knife
+//  action 1:   cuts
+knife.cut();
+//  action 2:   poke
+knife.poke();
+//  action 3:   stab
+knife.stab();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:   fist
+//  action 1:   punch
+fist.punch();
+//  action 2:   bumps
+fist.bump();
+//  action 3:   pounds
+fist.pound();
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:   leftLeg
+//  action 1:   stepForward
+leftLeg.stepForward();
+//  action 2:   stepBack
+leftLeg.stepBack();
+//  action 3:   JumpUp
+leftLeg.jumpUp();
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:   eyes
+//  action 1:   see
+eyes.see();
+//  action 2:   blink
+eyes.blink();
+//  action 3:   roll
+eyes.roll();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:   feet
+//  action 1:   run
+feet.run();
+//  action 2:   slide
+feet.slide();
+//  action 3:   dance
+feet.dance();
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:   gun
+//  action 1:   fire
+gun.fire();
+//  action 2:   cock
+gun.cock();
+//  action 3:   load
+gun.load();
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:   lips
+//  action 1:   kiss
+lips.kiss();
+//  action 2:   lick
+lips.lick();
+//  action 3:   suck
+lips.suck();
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:   sword
+//  action 1:   slash
+sword.slash();
+//  action 2:   slice
+sword.slice();
+//  action 3:   block
+sword.block();
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:   car
+//  action 1:   moveForward
+car.moveForward();
+//  action 2:   moveBack
+car.moveBack();
+//  action 3:   turn
+car.turn();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:   hand
+//  action 1:   grab
+hand.grab();
+//  action 2:   slap
+hand.slap();
+//  action 3:   push
+hand.push();
 
 
 #endif
